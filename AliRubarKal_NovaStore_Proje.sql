@@ -1,7 +1,7 @@
 -- ================================================================
 -- NovaStore E-Ticaret Veri Yonetim Sistemi
 -- Teslim SQL Dosyasi
--- Dosya: AliRikal_NovaStore_Proje.sql
+-- Dosya: AliRubarKal_NovaStore_Proje.sql
 -- Platform: Microsoft SQL Server
 -- ================================================================
 
